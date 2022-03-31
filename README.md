@@ -12,7 +12,7 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - ⚙️ I also use and work:  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
 
+[![luyi404's github stats](https://github-readme-stats.vercel.app/api?username=luyi404&show_icons=true)](https://github.com/luyi404)
+
 **Just started** solving leetcode questions, hope to find a job in a big Bay Area factory when I graduate.
 [![My leetcode progress](https://stats.justsong.cn/api/leetcode/?username=luyi4me)](https://leetcode.com/luyi4me/)
-</br>
-[![luyi404's github stats](https://github-readme-stats.vercel.app/api?username=luyi404&show_icons=true)](https://github.com/luyi404)
