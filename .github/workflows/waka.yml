@@ -1,16 +1,17 @@
-name: WakaTime Readme
-
+name: Update gist with WakaTime stats
 on:
-  push:
-    branches:
-      - master
   schedule:
-    - cron: '0 19 * * *'
-
+    - cron: "0 0 * * *"
+  # Manual triggers with workflow_dispatch
+  workflow_dispatch:
 jobs:
-  update-readme:
+  update-gist:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
+      - uses: actions/checkout@master
+      - name: Update gist
+        uses: matchai/waka-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: a866b1aea83a6ce6bda5008faf3f574a
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
