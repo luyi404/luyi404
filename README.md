@@ -20,4 +20,7 @@
 **Just started** solving leetcode questions, hope to find a job in a big Bay Area factory when I graduate.
 [![My leetcode progress](https://stats.justsong.cn/api/leetcode/?username=luyi4me)](https://leetcode.com/luyi4me/)
 <br>
+ <!-- waka-box start -->
+ <!-- waka-box end -->
+ 
 <img src="https://github.com/luyi404/luyi404/blob/main/gopher.gif" >
