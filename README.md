@@ -21,8 +21,11 @@
 [![My leetcode progress](https://stats.justsong.cn/api/leetcode/?username=luyi4me)](https://leetcode.com/luyi4me/)
 <br>
 <!-- waka-box start -->
-
-
+#### <a href="https://gist.github.com/a866b1aea83a6ce6bda5008faf3f574a" target="_blank">📊 Weekly development breakdown</a>
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
  
 <img src="https://github.com/luyi404/luyi404/blob/main/gopher.gif" >
