@@ -1,6 +1,5 @@
 # Hi there 👋
 
-
 [![Gmail Badge](https://img.shields.io/badge/-luyi4me@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:luyi4me@gmail.com)](mailto:luyi4me@gmail.com)
 
 - 🏢 I'm still a  **student**
