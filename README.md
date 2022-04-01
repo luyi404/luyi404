@@ -26,5 +26,3 @@ Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
- 
-<img src="https://github.com/luyi404/luyi404/blob/main/gopher.gif" >
