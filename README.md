@@ -22,6 +22,11 @@
 
 <br>
  <!-- waka-box start -->
- <!-- waka-box end -->
+#### <a href="https://gist.github.com/a866b1aea83a6ce6bda5008faf3f574a" target="_blank">📊 Weekly development breakdown</a>
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
  
 <img src="https://github.com/luyi404/luyi404/blob/main/gopher.gif" >
