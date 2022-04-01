@@ -15,10 +15,11 @@
 [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/) 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins&logoColor=ffffff) 
 
-[![luyi404's github stats](https://github-readme-stats.vercel.app/api?username=luyi404&show_icons=true)](https://github.com/luyi404)
-
 **Just started** solving leetcode questions, hope to find a job in a big Bay Area factory when I graduate.
+
+[![luyi404's github stats](https://github-readme-stats.vercel.app/api?username=luyi404&show_icons=true)](https://github.com/luyi404) 
 [![My leetcode progress](https://stats.justsong.cn/api/leetcode/?username=luyi4me)](https://leetcode.com/luyi4me/)
+
 <br>
  <!-- waka-box start -->
  <!-- waka-box end -->
