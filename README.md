@@ -19,7 +19,6 @@
 
 **Just started** solving leetcode questions, hope to find a job in a big Bay Area factory when I graduate.
 [![My leetcode progress](https://stats.justsong.cn/api/leetcode/?username=luyi4me)](https://leetcode.com/luyi4me/)
-
 <br>
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/a866b1aea83a6ce6bda5008faf3f574a" target="_blank">📊 Weekly development breakdown</a>
