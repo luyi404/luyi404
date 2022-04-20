@@ -17,8 +17,9 @@
 [![luyi404's github stats](https://github-readme-stats.vercel.app/api?username=luyi404&show_icons=true)](https://github.com/luyi404) 
 
 <!-- **Just started** solving leetcode questions, hope to find a job in a big Bay Area factory when I graduate. -->
-<!-- [![My leetcode progress](https://stats.justsong.cn/api/leetcode/?username=luyi4me)](https://leetcode.com/luyi4me/) -->
+<!-- [![My leetcode progress](https://stats.justsong.cn/api/leetcode/?username=luyi4me)](https://leetcode.com/luyi4me/)-->
 <br>
+
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/ce41b7a336cd772beb5f10348a997b48" target="_blank">📊 Weekly development breakdown</a>
 ```text
