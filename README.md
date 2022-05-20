@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-luyi4me@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:luyi4me@gmail.com)](mailto:luyi4me@gmail.com)
 
-- 🏢 I'm still a  **student**
+- 🏢 I'm a **student** in [![NYU](https://upload.wikimedia.org/wikipedia/commons/6/6a/Nyu_short_color.svg)](https://engineering.nyu.edu/).
 - 🚀 I use daily:
   [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/) 
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
