@@ -1,6 +1,7 @@
 # Hi there 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-luyi4me@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:luyi4me@gmail.com)](mailto:luyi4me@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-luyi@nyu.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:luyi@nyu.edu)](mailto:luyi@nyu.edu)
 
 - 🏢 I'm a **student** in [![NYU](https://upload.wikimedia.org/wikipedia/commons/6/6a/Nyu_short_color.svg)](https://engineering.nyu.edu/).
 - 🚀 I use daily:
