@@ -5,6 +5,7 @@
 
 - 🏢 I'm a **student** in [![NYU](https://upload.wikimedia.org/wikipedia/commons/6/6a/Nyu_short_color.svg)](https://engineering.nyu.edu/).
 - 🚀 I use daily:
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-22ADD8?style=flat-square&logo=javascript&logoColor=ffff21)]([https://golang.org/](https://developer.mozilla.org/en-US/docs/Web/javascript)) 
   [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/) 
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
