@@ -5,14 +5,18 @@
 
 - 🏢 I'm a **student** in [![NYU](https://upload.wikimedia.org/wikipedia/commons/6/6a/Nyu_short_color.svg)](https://engineering.nyu.edu/).
 - 🚀 I use daily:
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-22ADD8?style=flat-square&logo=javascript&logoColor=ffff21)]([https://golang.org/](https://developer.mozilla.org/en-US/docs/Web/javascript)) 
+  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
   [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/) 
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-22ADD8?style=flat-square&logo=javascript&logoColor=ffff21)]([https://golang.org/](https://developer.mozilla.org/en-US/docs/Web/javascript))
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=flat-square&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-- ⚙️ I also use and are learning:  ![Java](https://img.shields.io/badge/-java-3f4441?style=flat-square&logo=java&logoColor=ffffff) [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
+- ⚙️ I also use and are learning:  [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/) 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins&logoColor=ffffff) 
