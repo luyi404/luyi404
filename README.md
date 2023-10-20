@@ -31,8 +31,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/ce41b7a336cd772beb5f10348a997b48" target="_blank">📊 Weekly development breakdown</a>
 ```text
-C++   🕓 21m █████████████████████████████████▍░ 95.4%
-CMake 🕓 1m  █▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4.6%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
